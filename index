@@ -8,15 +8,15 @@
 <body>
     <main>
         <header>
-            <h1>Título do Site</h1>
+            <h1>Portfolio</h1>
         </header>
         <article>
-            <h2> Artigo 001</h2>
-            <p>Texto do artigo 001</p>
+            <h2> Python na Prática</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, ea. Temporibus ut magni dicta provident incidunt repellendus id vitae blanditiis fuga? Exercitationem architecto, dolore sint vel blanditiis earum quasi voluptates?</p>
         </article>
         <article>
-            <h2> Artigo 002</h2>
-            <p>Texto do artigo 002</p>
+            <h2> FastAPI</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora, quibusdam a voluptatem ipsum placeat voluptates vero facilis eius nulla et debitis fugit sunt corporis earum explicabo accusantium fugiat! Explicabo, animi.</p>
         </article>
     </main>
 </body>
